@@ -167,16 +167,16 @@ a.addnewforum,
 a.btn2:hover,
 .single-btn > li > a.active
 {
-	border-color: orange;	
+	border-color: rgb(255, 0, 0);	
 }
 
 #nprogress .spinner-icon{
-	border-left-color: orange;
+	border-left-color: rgb(255, 0, 0);
 }
 #nprogress .spinner-icon
 {
-	border-top-color: orange;		
+	border-top-color: rgb(255, 0, 0);		
 }
 .timeline-info > ul li a:after{
-	border-bottom-color: orange;
+	border-bottom-color: rgb(255, 0, 0);
 }
